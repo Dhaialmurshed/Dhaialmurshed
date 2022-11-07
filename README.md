@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Dhaialmurshed
-- 👀 I’m interested in DATA
-- 🌱 I’m currently learning Python
 - 📫 How to reach me via email:almursheddhai@gmail.com
 
 <!---
